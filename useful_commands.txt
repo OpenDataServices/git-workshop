@@ -1,0 +1,4 @@
+git commands
+
+git branch - see what branches there are
+git status - see what branch you're on
